@@ -10,8 +10,19 @@
 Console.WriteLine("Hello, World!");
 Authenticate("usuario", "password");
 
+int suma = Suma(1, 2);
+Console.WriteLine("La suma es :" + suma);
+
+
 
 void Authenticate(string user, string password)
 {
     Console.WriteLine("el pass es:" + password);
+}
+
+
+
+int Suma(int numA, int numB)
+{
+    return numA + numB;
 }
