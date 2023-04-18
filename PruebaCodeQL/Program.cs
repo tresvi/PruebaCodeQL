@@ -29,3 +29,10 @@ int Suma(int numA, int numB)
 {
     return numA + numB;
 }
+
+/* Codigo comentado
+int Suma(int numA, int numB)
+{
+    return numA + numB;
+}
+*/
