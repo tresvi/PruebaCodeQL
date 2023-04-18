@@ -5,6 +5,9 @@
 //https://learn.microsoft.com/es-es/dotnet/core/tools/sdk-errors/netsdk1005
 //https://stphnwlsh.medium.com/using-github-actions-to-update-net-dependencies-automatically-d555f629fed0
 
+//Tutorial
+//https://codeql.github.com/docs/writing-codeql-queries/ql-tutorials/
+
 //TODO: Esto es un TO DO
 
 Console.WriteLine("Hello, World!");
